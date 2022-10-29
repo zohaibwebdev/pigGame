@@ -12,7 +12,7 @@ GAME RULES:
 var scores, roundScore, activePlayer, gamePlaying;
 init();
 
-
+// comment added by awais
 
 
 // adding funtionality of the Roll button
